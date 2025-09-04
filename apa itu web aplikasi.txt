@@ -1,2 +1,3 @@
 web aplikasi adalah aplikasi yang ada di dalam web
 ketika ingin membuka aplikasi harus ada web nya dulu
+tapi bisa digunakan dimana saja dan kapan saja
